@@ -22,8 +22,8 @@ public class PersonController {
                 Hola mundo esta es \
                 una prueba  \
                 para la demo \
-                de springboot 3  
-                con java 17
+                de springboot 3  \
+                con java 17 \
                 """;
 
         return new ResponseEntity<>(
